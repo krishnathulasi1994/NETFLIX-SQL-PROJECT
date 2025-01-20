@@ -1,3 +1,3 @@
 # NETFLIX MOVIES AND TV SHOWS DATA ANALYSIS USING SQL
 
-[NETFLIX LOGO](https://github.com/krishnathulasi1994/NETFLIX-SQL-PROJECT/blob/main/logo.png)
+![NETFLIX LOGO](https://github.com/krishnathulasi1994/NETFLIX-SQL-PROJECT/blob/main/logo.png)
