@@ -1,2 +1,2 @@
 # NETFLIX MOVIES AND TV SHOWS DATA ANALYSIS USING SQL
-![NETFLIX LOGO]()
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
